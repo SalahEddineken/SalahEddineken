@@ -29,7 +29,7 @@ In this project, I explored the potential success of **Grand Theft Auto VI** thr
 ## 🛠️ Tech Stack
 
 - **Languages & Tools:**  
-  `Python`, `SQL`, 
+  `Python`, `SQL`, `Spreadsheet`, `Tableau`
 
 - **Data Analysis & Visualization:**  
   `Pandas`, `NumPy`, `Tableau`
