@@ -37,7 +37,7 @@ in this project, I undertook a comprehensive, data-driven exploration of the COV
 
 [🔍 Explore the live demo](https://salaheddineken.github.io/COVID-19-in-Algeria-2020-)
 
-###The Sahara Superpower: Algeria's Solar Potential
+### The Sahara Superpower: Algeria's Solar Potential
 
 In this project, I explored the immense energy potential of Southern Algeria through a data-driven lens.
 
