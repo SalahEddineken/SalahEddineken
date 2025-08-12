@@ -45,6 +45,7 @@ In this project, I explored the immense energy potential of Southern Algeria thr
 - **Analyzed** solar irradiance and geographic data from public scientific databases (Global Solar Atlas, NASA POWER).
 - **Visualized Key Insights** to compare the vast solar resources of the Algerian Sahara with other global regions and total energy demand.
 - **Built** a single-page infographic that communicates the region's potential to become a global clean energy superpower.
+  
 [🔍 Explore the live demo](https://salaheddineken.github.io/Algeria-s-Solar-Potentia)
 
 
