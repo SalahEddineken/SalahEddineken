@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m passionate about transforming complex datasets into 
 
 ## 🚀 Featured Projects:
 
-*GTA VI Success Forecast*
+***GTA VI Success Forecast***
 
 In this project, I explored the potential success of **Grand Theft Auto VI** through a data-driven lens.
 
@@ -26,7 +26,7 @@ In this project, I explored the potential success of **Grand Theft Auto VI** thr
 
 [🔍 Explore the live demo](https://salaheddineken.github.io/A-Data-Driven-Prediction-for-GTA-VI)
 
-*Algeria's 2020 COVID-19 Pandemic*
+***Algeria's 2020 COVID-19 Pandemic***
 
 in this project, I undertook a comprehensive, data-driven exploration of the COVID-19 pandemic's impact on Algeria, focusing on the critical first year of the crisis (2020).
 
@@ -37,7 +37,7 @@ in this project, I undertook a comprehensive, data-driven exploration of the COV
 
 [🔍 Explore the live demo](https://salaheddineken.github.io/COVID-19-in-Algeria-2020-)
 
-*The Sahara Superpower: Algeria's Solar Potential*
+***The Sahara Superpower: Algeria's Solar Potential***
 
 In this project, I explored the immense energy potential of Southern Algeria through a data-driven lens.
 
