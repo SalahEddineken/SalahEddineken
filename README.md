@@ -15,16 +15,6 @@ Welcome to my GitHub! I’m passionate about transforming complex datasets into 
 
 ## 🚀 Featured Projects:
 
-### GTA VI Success Forecast
-
-In this project, I explored the potential success of **Grand Theft Auto VI** through a data-driven lens.
-
-**📌 Key Highlights:**
-- **Analyzed** historical GTA franchise sales from a structured CSV dataset.
-- **Visualized** insights using `Tableau` to compare historical trends with current online hype (trailer views).
-- **Built** a single-page infographic that communicates the franchise’s trajectory and future potential.
-
-[🔍 Explore the live demo](https://salaheddineken.github.io/A-Data-Driven-Prediction-for-GTA-VI)
 
 ### Algeria's 2020 COVID-19 Pandemic
 
@@ -48,6 +38,39 @@ In this project, I explored the immense energy potential of Southern Algeria thr
   
 [🔍 Explore the live demo](https://salaheddineken.github.io/Algeria-s-Solar-Potentia)
 
+### Algerian Road Safety Analysis
+
+In this project, I analyzed national traffic accident data in Algeria to uncover critical insights and inform public safety initiatives.
+
+**📌 Key Highlights:**
+- **Analyzed** comprehensive traffic accident data to identify high-risk areas (hotspots), common causes, and trends over time.
+- **Visualized** insights using Tableau to create clear representations of accident statistics, including temporal patterns and causal factors.
+- **Built** responsive infographic that communicates the findings and proposes data-driven safety recommendations.
+
+[🔍 Explore the live demo](https://salaheddineken.github.io/Algerian-Road-Safety/)
+
+### Youth Unemployment Trends in Algeria
+
+In this project, I explored the complex issue of youth unemployment in Algeria through a data-driven lens, culminating in a comprehensive analysis ready for infographic presentation.
+
+**📌 Key Highlights:**
+- **Analyzed** conomic, demographic, and educational data from sources like the World Bank, IMF, and Algeria's National Office of Statistics (ONS) to identify the root causes.
+- **Synthesized** key statistical indicators to create a clear picture of the current situation, historical trends, and significant disparities (gender, education).
+- **Investigated** the structure, programs, and reported effectiveness of key government employment support agencies (ANADE, ANGEM, CNAC).
+- **Built** a single-page infographic details the challenges, and provides a comparative outlook on the Maghreb region.
+
+[🔍 Explore the live demo](https://salaheddineken.github.io/Algeria-s-Youth-Employment/)
+
+### GTA VI Success Forecast
+
+In this project, I explored the potential success of **Grand Theft Auto VI** through a data-driven lens.
+
+**📌 Key Highlights:**
+- **Analyzed** historical GTA franchise sales from a structured CSV dataset.
+- **Visualized** insights using `Tableau` to compare historical trends with current online hype (trailer views).
+- **Built** a single-page infographic that communicates the franchise’s trajectory and future potential.
+
+[🔍 Explore the live demo](https://salaheddineken.github.io/A-Data-Driven-Prediction-for-GTA-VI)
 
 
 ---
