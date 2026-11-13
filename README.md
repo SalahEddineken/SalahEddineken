@@ -1,6 +1,6 @@
 # 👋 Hi, I’m SalahEddine Kennouda
 
-**🎯 Data Analyst | 🌍 Based in Chelghoum Laïd, Algeria**
+**🎯 Flutter Developper | 🌍 Based in Chelghoum Laïd, Algeria**
 
 Welcome to my GitHub! I’m passionate about transforming complex datasets into meaningful stories and insights that drive smart decisions. I specialize in data visualization, predictive analysis, and interactive dashboards.
 
@@ -75,19 +75,14 @@ In this project, I explored the potential success of **Grand Theft Auto VI** thr
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+Languages & Frameworks: Dart, Flutter, C++ (method channels integration)
 
-- **Languages & Tools:**  
-  `Python`, `SQL`, `Spreadsheet`, `Tableau`
+State Management & Architecture: Bloc, Provider, Riverpod, Clean Architecture
 
-- **Data Analysis & Visualization:**  
-  `Pandas`, `NumPy`, `Tableau`
+Backend & APIs: Firebase, RESTful APIs, GraphQL, SQLite, Hive
 
-- **Core Skills:**  
-  📈 Statistical Analysis  
-  📊 Predictive Insights  
-  🧩 Interactive Dashboards
-
+Core Skills: 📱 Cross-Platform Development | ⚡ Performance Optimization | 🎨 Custom UI/UX Widge
 ---
 
 ## 📫 Let’s Connect!
@@ -99,5 +94,5 @@ I'm always open to new ideas, collaborations, or just data talk!
 
 ---
 
-> _"Without data, you're just another person with an opinion."_ – W. Edwards Deming
+> _"Write once, run anywhere—with native-level performance and buttery-smooth UI"
 
